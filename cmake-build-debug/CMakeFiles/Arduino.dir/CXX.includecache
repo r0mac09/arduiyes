@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Alexandru Mihaescu/Desktop/Arduino/src/hardware/Arduino.cpp
+chrono
+-
+Arduino.h
+C:/Users/Alexandru Mihaescu/Desktop/Arduino/src/hardware/Arduino.h
+
+C:/Users/Alexandru Mihaescu/Desktop/Arduino/src/hardware/Arduino.h
+cstdint
+-
+chrono
+-
+

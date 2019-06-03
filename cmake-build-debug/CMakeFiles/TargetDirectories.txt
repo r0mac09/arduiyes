@@ -1,0 +1,3 @@
+C:/Users/Alexandru Mihaescu/Desktop/Arduino/cmake-build-debug/CMakeFiles/Arduino.dir
+C:/Users/Alexandru Mihaescu/Desktop/Arduino/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexandru Mihaescu/Desktop/Arduino/cmake-build-debug/CMakeFiles/rebuild_cache.dir
